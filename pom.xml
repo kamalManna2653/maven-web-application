@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <urlhttp://13.233.159.43:8081/kamalmanna/repository/manna-development-snapshot/></url>
+	      <url>http://13.233.159.43:8081/kamalmanna/repository/manna-development-snapshot/></url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
