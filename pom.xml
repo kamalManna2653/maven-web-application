@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://52.66.234.223:8081/kamalmanna/repository/manna-development-release/</url>
+	      <url>http://13.126.249.128:8081/kamalmanna/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.66.234.223:8081/kamalmanna/repository/manna-development-snapshot/</url>
+	      <url>http://13.126.249.128:8081/kamalmanna/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
